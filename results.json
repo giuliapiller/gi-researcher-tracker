@@ -1,0 +1,111 @@
+{
+  "last_updated": "2026-02-17T12:20:37.390492",
+  "your_account": "GiuliaPiller",
+  "total_tracked": 20,
+  "following_you": 0,
+  "not_following": 20,
+  "coverage_pct": 0.0,
+  "matches": [],
+  "not_following_list": [
+    {
+      "name": "Yann LeCun",
+      "twitter": "ylecun",
+      "focus": "Deep Learning, Computer Vision"
+    },
+    {
+      "name": "Andrej Karpathy",
+      "twitter": "karpathy",
+      "focus": "Deep Learning, Autonomous Driving"
+    },
+    {
+      "name": "Fei-Fei Li",
+      "twitter": "drfeifei",
+      "focus": "Computer Vision, Spatial AI"
+    },
+    {
+      "name": "Demis Hassabis",
+      "twitter": "demishassabis",
+      "focus": "AGI, World Models"
+    },
+    {
+      "name": "Jeff Dean",
+      "twitter": "jeffdean",
+      "focus": "Large Scale ML"
+    },
+    {
+      "name": "Pieter Abbeel",
+      "twitter": "pabbeel",
+      "focus": "Robotics, Reinforcement Learning"
+    },
+    {
+      "name": "Chelsea Finn",
+      "twitter": "chelseabfinn",
+      "focus": "Meta-Learning, Robotics"
+    },
+    {
+      "name": "Sergey Levine",
+      "twitter": "svlevine",
+      "focus": "Robotics, Deep RL"
+    },
+    {
+      "name": "Ilya Sutskever",
+      "twitter": "ilyasut",
+      "focus": "Deep Learning, AGI"
+    },
+    {
+      "name": "Joscha Bach",
+      "twitter": "joscha_bach",
+      "focus": "Cognitive AI, World Models"
+    },
+    {
+      "name": "Jim Fan",
+      "twitter": "drjimfan",
+      "focus": "Embodied AI, Foundation Models"
+    },
+    {
+      "name": "Emad Mostaque",
+      "twitter": "emostaque",
+      "focus": "Generative AI"
+    },
+    {
+      "name": "Fran\u00e7ois Chollet",
+      "twitter": "fchollet",
+      "focus": "Deep Learning, ARC"
+    },
+    {
+      "name": "Lex Fridman",
+      "twitter": "lexfridman",
+      "focus": "AI Research, Autonomous Vehicles"
+    },
+    {
+      "name": "Gary Marcus",
+      "twitter": "garymarcus",
+      "focus": "Cognitive Science, AI Critique"
+    },
+    {
+      "name": "Kyunghyun Cho",
+      "twitter": "kchonyc",
+      "focus": "NLP, Generative Models"
+    },
+    {
+      "name": "Oriol Vinyals",
+      "twitter": "oriolvinyals",
+      "focus": "Deep Learning, Game AI"
+    },
+    {
+      "name": "David Silver",
+      "twitter": "davidsilvermind",
+      "focus": "Reinforcement Learning"
+    },
+    {
+      "name": "Abeba Birhane",
+      "twitter": "Abebab",
+      "focus": "AI Ethics, Cognitive Science"
+    },
+    {
+      "name": "Percy Liang",
+      "twitter": "percyliang",
+      "focus": "Foundation Models, NLP"
+    }
+  ]
+}
